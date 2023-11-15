@@ -1,6 +1,8 @@
 ## Hi, I'm Adam
 ### A Software Developer from Cracow, Poland
 
+[My Personal Page](https://adamszl.github.io/)
+
 - 🌱 I’m currently learning Android Development with Jetpack Compose
 - ⭐ Favorite programming languages: Kotlin and TypeScript
 - 📫 How to reach me: adam@szlosarczyk.dev
