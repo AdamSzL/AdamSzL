@@ -10,3 +10,7 @@
 
 ### Technologies and languages that I'm confident in using:
 [![Skills](https://skillicons.dev/icons?i=gcp,github,docker,vscode,html,css,tailwind,py,django,flask,react,nodejs,vite,vue,svelte,javascript,typescript,androidstudio,java,kotlin&perline=5)](https://skillicons.dev)
+
+[Forked Repository](https://github.com/AdamSzL/vision_transformer)
+
+[Papers With Code article](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)
